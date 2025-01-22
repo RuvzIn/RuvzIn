@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @RuvzIn
-- 👀 I’m interested in stuff and problems
+- 👀 I’m interested in my future security
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i like cooking
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i like cooking and playing games, especially modding them
 
 <!---
 RuvzIn/RuvzIn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
